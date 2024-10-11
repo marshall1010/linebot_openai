@@ -1,4 +1,9 @@
 line-bot-sdk
 flask
-openai < 1.0.0
 gunicorn
+langchain
+google-cloud-firestore
+firebase-admin
+langchain_google_firestore
+langchain_openai
+firebase
